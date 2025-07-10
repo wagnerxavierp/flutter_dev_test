@@ -1,4 +1,4 @@
-# Teste de Desenvolvedor Flutter: Aplicativo de Autenticação TOTP
+# Observações de implementação
 
 ## Requisitos do Ambiente
 
@@ -11,7 +11,10 @@ Este aplicativo foi construído a partir das seguintes versões:
 Por questões de compatibilidade, configurei as versões no arquivo android/settings.gradle e android/gradle/wrapper/gradle-wrapper.properties com relação a estrutura inicial disponibilizada no teste.
 
 ## Arquitetura do Projeto
-O projeto segue o Clean Architecture, utilizando o padrão BLoC para gerenciamento de estado.
+Construí o projeto seguindo o Clean Architecture, utilizando o padrão BLoC para gerenciamento de estado.
+
+
+# Teste de Desenvolvedor Flutter: Aplicativo de Autenticação TOTP
 
 ## Visão Geral
 
