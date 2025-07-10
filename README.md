@@ -1,5 +1,15 @@
 # Teste de Desenvolvedor Flutter: Aplicativo de Autenticação TOTP
 
+## Requisitos do Ambiente
+
+Este aplicativo foi construído a partir das seguintes versões:
+
+- **Flutter**: Channel `stable` 3.29.2  
+- **Android Compile SDK**: API Level 35  
+- **Kotlin**: 1.9.0
+
+Por questões de compatibilidade, configurei as versões no arquivo android/settings.gradle e android/gradle/wrapper/gradle-wrapper.properties com relação a estrutura inicial disponibilizada no teste.
+
 ## Visão Geral
 
 Este teste avalia suas habilidades na construção de um aplicativo Flutter que se integra a uma API para autenticação TOTP
