@@ -10,6 +10,9 @@ Este aplicativo foi construído a partir das seguintes versões:
 
 Por questões de compatibilidade, configurei as versões no arquivo android/settings.gradle e android/gradle/wrapper/gradle-wrapper.properties com relação a estrutura inicial disponibilizada no teste.
 
+## Arquitetura do Projeto
+O projeto segue o Clean Architecture, utilizando o padrão BLoC para gerenciamento de estado.
+
 ## Visão Geral
 
 Este teste avalia suas habilidades na construção de um aplicativo Flutter que se integra a uma API para autenticação TOTP
